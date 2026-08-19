@@ -95,9 +95,9 @@ Busco evoluir principalmente na criação de **soluções que utilizam software 
 ### 📫 Onde me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/kauã-carvalho-7ab4801287/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
   <a href="mailto:SEU@EMAIL.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
